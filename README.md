@@ -1,6 +1,9 @@
 Example Voting App
 =========
 
+Temporary Getting started
+
+
 Getting started
 ---------------
 
