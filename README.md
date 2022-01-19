@@ -1,8 +1,6 @@
 Example Voting App
 =========
-
-Temporary Getting started
-
+This is a sample voting application
 
 Getting started
 ---------------
